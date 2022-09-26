@@ -6,6 +6,10 @@
 
 
 
+.display-ib {
+    display: inline-block;
+}
+
 
 .debug {
     background-color: #3366ff;
